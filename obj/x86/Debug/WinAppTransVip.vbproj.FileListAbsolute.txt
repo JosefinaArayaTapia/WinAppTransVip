@@ -1,0 +1,70 @@
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.ResolveComReference.cache
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.exe
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.pdb
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.xml
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Form1.resources
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Resources.resources
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.GenerateResource.Cache
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.exe
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.xml
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.pdb
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\rcoloma\Desktop\TransVip\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.exe
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.pdb
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.xml
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.ResolveComReference.cache
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Form1.resources
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Resources.resources
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.GenerateResource.Cache
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.exe
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.xml
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.pdb
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\rcoloma\Desktop\TransVip\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.ResolveComReference.cache
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.exe
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.xml
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.pdb
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Form1.resources
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Resources.resources
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.GenerateResource.Cache
+C:\Users\josefina\Dropbox\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.ResolveComReference.cache
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.exe
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.xml
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.pdb
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Form1.resources
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.Resources.resources
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.GenerateResource.Cache
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.exe
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.pdb
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.xml
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\josefina\Desktop\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.exe.config
+H:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.exe.config
+H:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbobsCOM.dll
+H:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbouiCOM.dll
+H:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.ResolveComReference.cache
+H:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.exe
+H:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.xml
+H:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.pdb
+G:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\bin\Debug\WinAppTransVip.exe.config
+G:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbobsCOM.dll
+G:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\Interop.SAPbouiCOM.dll
+G:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.ResolveComReference.cache
+G:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.exe
+G:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.xml
+G:\Respaldo Trasvip\Capacitacion_SDK\Solucion\WinAppTransVip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.pdb
+G:\Respaldo Trasvip\WinAppTransVip\bin\Debug\WinAppTransVip.exe.config
+G:\Respaldo Trasvip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.vbproj.ResolveComReference.cache
+G:\Respaldo Trasvip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.exe
+G:\Respaldo Trasvip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.xml
+G:\Respaldo Trasvip\WinAppTransVip\obj\x86\Debug\WinAppTransVip.pdb
