@@ -84,9 +84,9 @@ Public Class Form1
             oCompañia.CompanyDB = "ZBO_Prueba_Transvip"
             oCompañia.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_MSSQL2012
             oCompañia.UserName = "jaat"
-            oCompañia.Password = "kokoliko"
+            oCompañia.Password = ""
             oCompañia.DbUserName = "sa"
-            oCompañia.DbPassword = "Sa123456"
+            oCompañia.DbPassword = ""
             oCompañia.UseTrusted = False
             iError = oCompañia.Connect
             If iError <> 0 Then
